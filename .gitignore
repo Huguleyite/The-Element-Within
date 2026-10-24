@@ -1,0 +1,4 @@
+hosting-unpublished.json
+.openai/
+node_modules/
+*.log
